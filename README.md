@@ -8,7 +8,8 @@ This project was developed as an undergraduate final year project and the goal w
 Dataset in this repository has a total of 11,582 images to carry out the training of the convolutional network, of this total 8327 are adult face images and 3255 are children face images. These images were extracted from 2 different datasets that are avaliable on:
 -UTKfaca database
 -LAGdataset_100
-
+To view the Dataset click on the link below:
+https://drive.google.com/drive/folders/16uJz_4QEYdmLuMbJKHrSmUVfBE-6xxJW
 
 ### Execute CNN Training
 
